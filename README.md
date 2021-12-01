@@ -19,8 +19,8 @@
 <p align="left">
 <a href="https://dev.to/dev.moat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.moat" height="30" width="40" /></a>
 <a href="https://twitter.com/qmoat_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="qmoat_" height="30" width="40" /></a>
-<a href="https://instagram.com/7e0o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="7e0o" height="30" width="40" /></a>
-<a href="https://discord.gg/Te2YXAuF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Te2YXAuF" height="30" width="40" /></a>
+<a href="https://instagram.com/depr.moat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="7e0o" height="30" width="40" /></a>
+<a href="https://discord.gg/StYp8gYQxA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Te2YXAuF" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
